@@ -11,4 +11,4 @@ The projects that I have under my belt are:
 (iii) `ML++` : A vectorized machine learning library for regression and classification **(C++)** <br>
 (iv) `Raspberry Pi 3B+ bootable image` : Simple and minimal implementations of mini-UART and GPIO drivers **(C & ASM)**
 
-**P.S. : All of my work are private.**
+**P.S. : All of my work is private.**
