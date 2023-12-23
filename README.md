@@ -10,3 +10,5 @@ The projects that I have under my belt are:
 (ii) `MiniURL` : An URL shortener Web Application <br>
 (iii) `ML++` : A vectorized machine learning library for regression and classification <br>
 (iv) `Raspberry Pi 3B+ bootable image` : Simple and minimal implementations of mini-UART and GPIO drivers
+
+#### P.S. : All of my work are private.
