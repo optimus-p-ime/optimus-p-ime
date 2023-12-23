@@ -12,3 +12,6 @@ The projects that I have under my belt are:
 (iv) `Raspberry Pi 3B+ bootable image` : Simple and minimal implementations of mini-UART and GPIO drivers **(C & ASM)**
 
 **P.S. : All of my work is private.**
+
+**I know about:** <br>
+`Linux`, `PHP`, `MySQL`, `Basic Server Administration`, `C/C++`, `Java`, `Basic Operating Systems & Machine Learning Concepts`, `Model-View-Controller architecture`, `Object Oriented Programming` and `Networking`
