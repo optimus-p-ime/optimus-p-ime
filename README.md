@@ -6,9 +6,9 @@ I am very much enthusiastic about learning emerging technologies, and in that pu
 
 The projects that I have under my belt are:
 
-(i) `chunkFS` : A simple, minimal and lightweight Distributed File System <br>
-(ii) `MiniURL` : An URL shortener Web Application <br>
-(iii) `ML++` : A vectorized machine learning library for regression and classification <br>
-(iv) `Raspberry Pi 3B+ bootable image` : Simple and minimal implementations of mini-UART and GPIO drivers
+(i) `chunkFS` : A simple, minimal and lightweight Distributed File System **(Java)** <br>
+(ii) `MiniURL` : An URL shortener Web Application **(PHP)** <br>
+(iii) `ML++` : A vectorized machine learning library for regression and classification **(C++)** <br>
+(iv) `Raspberry Pi 3B+ bootable image` : Simple and minimal implementations of mini-UART and GPIO drivers **(C & ASM)**
 
-#### P.S. : All of my work are private.
+**P.S. : All of my work are private.**
